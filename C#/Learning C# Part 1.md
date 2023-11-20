@@ -108,9 +108,9 @@ In C# much like other languages, code is executed one line at a time. This means
 This unit is a simple exercise using WriteLine and Write.
 I suggest practicing on an IDE with your own statements to see if you can do it by yourself.
 ### Unit 5: Review Challenge
-Review the work that you have done. Can you do it in any other ways. The answer is yes, you can experiment with different combinations of the same function.
+Review the work that you have done. Can you do it in any other ways? The answer is yes, you can experiment with different combinations of the same function.
 ### Unit 6: Knowledge Check
-Review the work in this unit and ensure that all the major points are understood.
+Review the work in this module and ensure that all the major points are understood.
 ### Unit 7: Summary
 Your goal was to write code that displayed simple messages to an output console while familiarizing yourself with the syntax. You wrote your first lines of code using basic C# syntax. You learned two techniques for displaying literal-string data to the console. You also learned what to look for when you come across an error in your code. And lastly, you identified C# syntax elements like classes and methods, and the purpose of several special symbols that are known as operators. You've taken your first steps towards building more sophisticated applications.
 > **Note:** I took the above paragraph directly from the Microsoft module. Sheesh I'm too lazy, I did a lot today. Don't sue me XD
