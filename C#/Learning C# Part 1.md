@@ -80,7 +80,7 @@ In this code we use the function Console.Write() instead of Console.WriteLine().
 `Congratulations! You wrote your first lines of code.`
 
 #### Console.Write vs Console.WriteLine
-In the previous example, the difference between the two functions has been highlighted. In Console.WriteLine there is a line added at the end of the printed statement. In Console.Write, there is no line added, so everything appears directly after each other. To further explore the concept, alternate between Write and WriteLine with the second example that was used to gain better understanding.
+In the previous example, the difference between the two functions has been highlighted. In `Console.WriteLine` there is a line added at the end of the printed statement. In `Console.Write`, there is no line added, so everything appears directly after each other. To further explore the concept, alternate between `Write` and `WriteLine` with the second example that was used to gain better understanding.
 
 ### Unit 3: How it works
 > Okay, now I'm getting into the nitty gritty theory. I'm going to summarize a lot from here on out, including in future modules and notes.
