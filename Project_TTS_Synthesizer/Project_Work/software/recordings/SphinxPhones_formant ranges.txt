@@ -1,0 +1,320 @@
+AA
+--------------
+F0 = 122.4 - 122
+BW = [114.6,234,257]
+target1 = [681,940,2466]
+target2 = [590,1040,2466]
+transition = linear
+--------------
+AE
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+AH
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+AO
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+AW
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+AY
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+B
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+CH
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+D
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+DH
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+EH
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+ER
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+EY
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+F
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+G
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+HH
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+IH
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+IY
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+JH
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+K
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+L
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+M
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+N
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+NG
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+OW
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+OY
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+P
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+R
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+S
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+SH
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+T
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+TH
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+UH
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+UW
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+V
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+W
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+Y
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+Z
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+ZH
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
+SIL
+--------------
+F0 = 
+BW = [,,]
+target1 = [,,]
+target2 = [,,]
+transition = 
+--------------
